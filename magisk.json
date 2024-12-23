@@ -1,6 +1,6 @@
 {
   "magisk": {
-    "version": "1.0.1",
+    "version": "UM-1.0.1",
     "versionCode": "101",
     "link": "https://github.com/WallD3v/UMagisk/raw/refs/heads/main/app-release.apk",
     "note": "https://github.com/WallD3v/UMagisk/raw/refs/heads/main/changes.md"
